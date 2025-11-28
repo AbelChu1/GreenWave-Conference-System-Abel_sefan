@@ -1,5 +1,5 @@
-# GreenWave-Conference-System-Abel_sefan
-Programming Final Assignment by Abel Chuchu M80009115 and Sefan Herpassa M80009123
+# GreenWave-Conference-System-Abel_Sefan_Muath
+Programming Final Assignment by Abel Chuchu M80009115, Sefan Herpassa M80009123, and Muath Alshehhi 202214858
 
 A comprehensive ticketing and session management system for the GreenWave Sustainability Conference.
 
