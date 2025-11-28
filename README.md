@@ -22,6 +22,7 @@ This application allows attendees to purchase tickets, manage workshop schedules
 ## Credentials
 * **Admin:** Username: `admin` | Password: `admin123`
 * **User:** Register a new account or use existing data.
+  - e.g: **email:** aaaa@aaaa.com **Password:** aaaa@aaaa.com 
 
 ## Files
 * `model.py`: Data classes (Person, Ticket, Workshop)
